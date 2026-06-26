@@ -55,7 +55,7 @@ cursor:pointer;
 
 .hero{
 height:80vh;
-background:url("image/school1.jpg") center/cover;
+background:url("school1.jpg") center/cover;
 display:flex;
 align-items:center;
 justify-content:center;
@@ -286,7 +286,7 @@ gap:5px;
 
 .about-banner{
     background:linear-gradient(rgba(226, 50, 50, 0.767),rgba(168, 16, 16, 0.6)),
-    url("image/schoolbanner2.png");
+    url("schoolbanner2.png");
     background-size:cover;
     background-position:center;
     color:white;
@@ -389,7 +389,7 @@ gap:5px;
 
 .gallery-banner{
     background:linear-gradient(rgba(230, 39, 39, 0.6),rgba(218, 22, 22, 0.6)),
-    url("image/schoolbanner2.png");
+    url("schoolbanner2.png");
     background-size:cover;
     background-position:center;
     text-align:center;
@@ -448,7 +448,7 @@ gap:5px;
 
 .contact-banner{
     background:linear-gradient(rgba(0,0,0,.0),rgba(0,0,0,.0)),
-    url("image/schoolbanner2.png");
+    url("schoolbanner2.png");
     background-size:cover;
     background-position:center;
     color:white;
